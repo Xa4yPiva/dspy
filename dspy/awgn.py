@@ -1,5 +1,5 @@
 import numpy as np
-from .units import pow2db, db2pow
+from .units import db2pow
 
 
 def awgn(signal, snr_dB):

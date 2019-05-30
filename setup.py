@@ -11,7 +11,7 @@ setup(
     author_email="khmelnitskii.vladislav@gmail.com",
     description="DSP routines written in Python",
     long_description=long_description,
-    url="",
+    url="github.com/Xa4yPiva/dspy",
     packages=find_packages(),
     classifiers=["Programming Language :: Python :: 3",
                  "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",

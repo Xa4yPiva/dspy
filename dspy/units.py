@@ -9,8 +9,8 @@ def db2mag(db):
     return 10. ** (db/20.)
 
 
-def pow2db(pow):
-    return 10 * np.log10(pow)
+def pow2db(power):
+    return 10 * np.log10(power)
 
 
 def db2pow(db):
